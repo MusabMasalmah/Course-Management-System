@@ -1,0 +1,37 @@
+index           status                         value                                   
+0               E                              NULL                                    
+1               E                              NULL                                    
+2               E                              NULL                                    
+3               E                              NULL                                    
+4               O                              Data structures                         
+5               E                              NULL                                    
+6               O                              Introduction to programming             
+7               E                              NULL                                    
+8               E                              NULL                                    
+9               O                              musab                                   
+10              E                              NULL                                    
+11              E                              NULL                                    
+12              O                              Introduction to French                  
+13              E                              NULL                                    
+14              E                              NULL                                    
+15              O                              musab                                   
+16              E                              NULL                                    
+
+index           status                         value                                   
+0               E                              NULL                                    
+1               E                              NULL                                    
+2               E                              NULL                                    
+3               E                              NULL                                    
+4               O                              Data structures                         
+5               E                              NULL                                    
+6               O                              Introduction to programming             
+7               E                              NULL                                    
+8               E                              NULL                                    
+9               O                              musab                                   
+10              O                              musab                                   
+11              E                              NULL                                    
+12              O                              Introduction to French                  
+13              E                              NULL                                    
+14              E                              NULL                                    
+15              E                              NULL                                    
+16              E                              NULL                                    
