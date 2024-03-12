@@ -21,10 +21,12 @@ The Course Management System uses a hash table to store and organize course info
 
 <details>
   <summary>Click to view testing images</summary>
+  
 ![image](https://github.com/MusabMasalmah/HashTable_Project/assets/129512609/53364554-9c05-48cf-833c-dae58ea01bd2)
 ![image](https://github.com/MusabMasalmah/HashTable_Project/assets/129512609/f5e6989a-3ee9-42b0-8414-26c8cdacc6ab)
 ![image](https://github.com/MusabMasalmah/HashTable_Project/assets/129512609/978fef97-d73c-4897-9cfb-919c9dab8893)
 ![image](https://github.com/MusabMasalmah/HashTable_Project/assets/129512609/a4a35285-6aab-4b83-bc30-e462a89f6441)
+
 </details>
 
  ## Note
